@@ -5,8 +5,7 @@ This is a responsive and elegant personal resume website built using **HTML** an
 
 ## 🌐 Live Demo
 
-[🔗 View Website](https://prasika-jain.github.io/CV/)  
-*(Replace this with your actual GitHub Pages link)*
+[🔗 View Website](https://prasika-jain.github.io/CV/) 
 
 ## 📌 Highlights
 
@@ -45,12 +44,3 @@ This project serves as a **digital portfolio/resume** for me – Prasika Jain, a
 - 📧 Email: [jainprasika@gmail.com](mailto:jainprasika@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/prasika-jain-40911826a)
 - 💻 [GitHub](https://github.com/prasika-jain)
-
-## 🚀 Hosting
-
-This site can be easily deployed using **GitHub Pages**:
-
-1. Push the code to a GitHub repository.
-2. Go to **Settings > Pages**.
-3. Select the branch and root folder.
-4. Save and get the live link.
