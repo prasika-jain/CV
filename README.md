@@ -5,7 +5,7 @@ This is a responsive and elegant personal resume website built using **HTML** an
 
 ## 🌐 Live Demo
 
-[🔗 View Website](https://prasika-jain.github.io/cv)  
+[🔗 View Website](https://prasika-jain.github.io/CV/)  
 *(Replace this with your actual GitHub Pages link)*
 
 ## 📌 Highlights
