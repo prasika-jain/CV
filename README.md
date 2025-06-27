@@ -10,12 +10,11 @@ This is a responsive and elegant personal resume website built using **HTML** an
 ## 📌 Highlights
 
 - Clean and professional UI with light color theme and rounded corners
-- Fully responsive layout designed with Flexbox/Grid principles
 - Sections include:
   - Contact Information
   - Professional Summary
   - Skills & Tools
-  - Projects (including the Xrotom Protocol)
+  - Projects
   - Internship Experience
   - Education Details
   - Footer with GitHub and LinkedIn links
@@ -23,7 +22,7 @@ This is a responsive and elegant personal resume website built using **HTML** an
 ## 🛠️ Technologies Used
 
 - **HTML5** – Markup structure
-- **CSS3** – Styling, responsive layout, color themes
+- **CSS3** – Styling, responsive layout, colour themes
 - No frameworks or JavaScript used – lightweight and fast loading
 
 ## 📂 Project Structure
